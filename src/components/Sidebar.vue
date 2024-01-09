@@ -34,7 +34,7 @@
   display: flex;
   align-items: center;
   padding: 12px 15px;
-  border-bottom: 1px solid #aaaaaa;
+  border-bottom: 1px solid #5c5c5c;
   height: 44px;
   line-height: 44px;
   color: #aaaaaa;
